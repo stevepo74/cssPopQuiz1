@@ -1,0 +1,32 @@
+body {
+  background-color: lightcoral;
+}
+
+.circle {
+  /* position: relative; */
+  margin-left: 50%;
+  margin-top: 50%;
+  width: 100px;
+  height: 100px;
+  background-color: lime;
+  border-radius: 50px;
+  border: black solid 1px;
+}
+
+/* header {
+  width: 300px;
+  height: 200px;
+  background-color: green;
+}
+
+section {
+  width: 300px;
+  height: 200px;
+  background-color: red;
+}
+
+.about-me {
+  width: 300px;
+  height: 100px;
+  background-color: blue;
+} */
